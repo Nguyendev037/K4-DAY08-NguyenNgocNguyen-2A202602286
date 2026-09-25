@@ -1,0 +1,5 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,c�c xe b? ng??c h??ng v?n ph?i g?n nh�n ???c,added,AI cho g?n nh�n t? b? qua kh�ng th?y
+1,frame_0270.jpg,C�c tr�m xe nh? b�n tr�i khung ?nh ph?i ???c g?n nh�n,added,AI b? qua c�c ch�m xe li ti c� th? li�n t??ng t?i ?�n
+1,frame_0392.jpg,Xe bus ? b�n ph?i,added,AI b? qua hai xe bus d� kh� to v� r� r�ng
+1,frame_0312.jpg,C�c xe b? che b?i xe to,added,AI b? qua c�c xe b? che d� l? r� h?n n?a th�n xe 
